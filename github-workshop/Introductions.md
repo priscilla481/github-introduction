@@ -36,7 +36,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 27. 
 28. 
 29. 
-30. 
+30. Cheese
 31. 
 32. 
 33. 
